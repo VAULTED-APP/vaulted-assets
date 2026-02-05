@@ -1,6 +1,6 @@
 # Vaulted Assets
 
-Publicly hosted font files served via GitHub Pages.
+Publicly hosted font files served via GitHub.
 
 ## Usage
 
