@@ -1,0 +1,26 @@
+@font-face {
+  font-family: 'Reckless Standard XL';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url('../fonts/RecklessStandardXL-Light.woff2') format('woff2'),
+       url('../fonts/RecklessStandardXL-Light.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Matter';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('../fonts/Matter-Regular.woff2') format('woff2'),
+       url('../fonts/Matter-Regular.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'Matter Semi Mono';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('../fonts/MatterSemiMono-Regular.woff2') format('woff2'),
+       url('../fonts/MatterSemiMono-Regular.woff') format('woff');
+}
