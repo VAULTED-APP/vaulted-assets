@@ -3,8 +3,8 @@
   font-style: normal;
   font-weight: 300;
   font-display: swap;
-  src: url('../fonts/RecklessStandardXL-Light.woff2') format('woff2'),
-       url('../fonts/RecklessStandardXL-Light.woff') format('woff');
+  src: url('https://raw.githubusercontent.com/VAULTED-APP/vaulted-assets/main/fonts/RecklessStandardXL-Light.woff2') format('woff2'),
+       url('https://raw.githubusercontent.com/VAULTED-APP/vaulted-assets/main/fonts/RecklessStandardXL-Light.woff') format('woff');
 }
 
 @font-face {
@@ -12,8 +12,8 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url('../fonts/Matter-Regular.woff2') format('woff2'),
-       url('../fonts/Matter-Regular.woff') format('woff');
+  src: url('https://raw.githubusercontent.com/VAULTED-APP/vaulted-assets/main/fonts/Matter-Regular.woff2') format('woff2'),
+       url('https://raw.githubusercontent.com/VAULTED-APP/vaulted-assets/main/fonts/Matter-Regular.woff') format('woff');
 }
 
 @font-face {
@@ -21,6 +21,15 @@
   font-style: normal;
   font-weight: 400;
   font-display: swap;
-  src: url('../fonts/MatterSemiMono-Regular.woff2') format('woff2'),
-       url('../fonts/MatterSemiMono-Regular.woff') format('woff');
+  src: url('https://raw.githubusercontent.com/VAULTED-APP/vaulted-assets/main/fonts/MatterSemiMono-Regular.woff2') format('woff2'),
+       url('https://raw.githubusercontent.com/VAULTED-APP/vaulted-assets/main/fonts/MatterSemiMono-Regular.woff') format('woff');
+}
+
+@font-face {
+  font-family: 'GT America Extended';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url('https://raw.githubusercontent.com/VAULTED-APP/vaulted-assets/main/fonts/GT-America-Extended-Medium.woff2') format('woff2'),
+       url('https://raw.githubusercontent.com/VAULTED-APP/vaulted-assets/main/fonts/GT-America-Extended-Medium.woff') format('woff');
 }

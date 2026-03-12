@@ -7,7 +7,7 @@ Publicly hosted font files served via GitHub.
 Link the stylesheet from your HTML:
 
 ```html
-<link rel="stylesheet" href="https://VAULTED-APP.github.io/vaulted-assets/css/fonts.css">
+<link rel="stylesheet" href="https://raw.githubusercontent.com/VAULTED-APP/vaulted-assets/main/css/fonts.css">
 ```
 
 Then use the fonts in your CSS:
@@ -24,6 +24,10 @@ h1 {
 code {
   font-family: 'Matter Semi Mono', monospace;
 }
+
+.extended {
+  font-family: 'GT America Extended', sans-serif;
+}
 ```
 
 ## Available Fonts
@@ -33,3 +37,4 @@ code {
 | Reckless Standard XL  | 300 (Light) | `RecklessStandardXL-Light.woff2/.woff` |
 | Matter                | 400 (Regular) | `Matter-Regular.woff2/.woff`         |
 | Matter Semi Mono      | 400 (Regular) | `MatterSemiMono-Regular.woff2/.woff` |
+| GT America Extended   | 500 (Medium)  | `GT-America-Extended-Medium.woff2/.woff` |
